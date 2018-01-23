@@ -1,0 +1,97 @@
+[{
+	"title":"炸鸡",
+	"id":1,
+    "detail":"详细介绍",
+    "price":55,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"薯条",
+	"id":2,
+    "detail":"详细介绍",
+    "price":35,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"汉堡",
+	"id":3,
+    "detail":"详细介绍",
+    "price":45,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"鸡翅",
+	"id":4,
+    "detail":"详细介绍",
+    "price":525,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"冰淇淋",
+	"id":5,
+    "detail":"详细介绍",
+    "price":155,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"大鸡腿",
+	"id":6,
+    "detail":"详细介绍",
+    "price":515,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"酥软炸鸡",
+	"id":7,
+    "detail":"详细介绍",
+    "price":5,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"烧鸡",
+	"id":8,
+    "detail":"详细介绍",
+    "price":55,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"炸鸭",
+	"id":9,
+    "detail":"详细介绍",
+    "price":55,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"小炸鸡",
+	"id":10,
+    "detail":"详细介绍",
+    "price":55,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"芬达",
+	"id":11,
+    "detail":"详细介绍",
+    "price":155,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+},
+{
+	"title":"雪碧",
+	"id":12,
+    "detail":"详细介绍",
+    "price":25,
+    "count":1,
+    "img":"/src/assets/images/cp1.jpg"
+}
+]
